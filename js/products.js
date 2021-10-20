@@ -3,43 +3,43 @@ let products = [
         name: 'Nike Epic React',
         image1: './images/xam (4).jpg',
         image2: './images/xam (4).jpg',
-        old_price: '400',
-        curr_price: '300'
+        old_price: '700.000 VNĐ',
+        curr_price: '500.000 VNĐ'
     },
     {
         name: 'Nike Epic React',
         image1: './images/xam (4).jpg',
         image2: './images/xam (4).jpg',
-        old_price: '400',
-        curr_price: '300'
+        old_price: '700.000 VNĐ',
+        curr_price: '500.000 VNĐ'
     },
     {
         name: 'Nike Epic React',
         image1: './images/xam (4).jpg',
         image2: './images/xam (4).jpg',
-        old_price: '400',
-        curr_price: '300'
+        old_price: '700.000 VNĐ',
+        curr_price: '500.000 VNĐ'
     },
     {
         name: 'Nike Epic React ',
         image1: './images/xam (4).jpg',
         image2: './images/xam (4).jpg',
-        old_price: '400',
-        curr_price: '300'
+        old_price: '700.000 VNĐ',
+        curr_price: '500.000 VNĐ'
     },
     {
         name: 'Nike Epic React ',
         image1: './images/xam (4).jpg',
         image2: './images/xam (4).jpg',
-        old_price: '400',
-        curr_price: '300'
+        old_price: '700.000 VNĐ',
+        curr_price: '500.000 VNĐ'
     },
     {
         name: 'Nike Epic React',
         image1: './images/xam (4).jpg',
         image2: './images/xam (4).jpg',
-        old_price: '400',
-        curr_price: '300'
+        old_price: '700.000 VNĐ',
+        curr_price: '500.000 VNĐ'
     },
 ]
 
