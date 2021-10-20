@@ -48,49 +48,49 @@ showSlide()
 
 let products = [
     {
-        name: 'JBL E55BT KEY BLACK',
+        name: 'Nike Epic React',
         image1: './images/xam (4).jpg',
         image2: './images/xam (3).jpg',
         old_price: '400',
         curr_price: '300'
     },
     {
-        name: 'JBL JR 310BT',
+        name: 'Nike Epic React',
         image1: './images/xam (4).jpg',
         image2: './images/xam (3).jpg',
         old_price: '400',
         curr_price: '300'
     },
     {
-        name: 'JBL TUNE 750BTNC',
+        name: 'Nike Epic React',
         image1: './images/xam (4).jpg',
         image2: './images/xam (3).jpg',
         old_price: '400',
         curr_price: '300'
     },
     {
-        name: 'JBL Horizon',
+        name: 'Nike Epic React',
         image1: './images/xam (4).jpg',
         image2: './images/xam (3).jpg',
         old_price: '400',
         curr_price: '300'
     },
     {
-        name: 'JBL Tune 220TWS',
+        name: 'Nike Epic React',
         image1: './images/xam (4).jpg',
         image2: './images/xam (3).jpg',
         old_price: '400',
         curr_price: '300'
     },
     {
-        name: 'UA Project Rock',
+        name: 'Nike Epic React',
         image1: './images/xam (4).jpg',
         image2: './images/xam (3).jpg',
         old_price: '400',
         curr_price: '300'
     },
     {
-        name: 'JBL Endurance SPRINT',
+        name: 'Nike Epic React',
         image1: './images/xam (4).jpg',
         image2: './images/xam (3).jpg',
         old_price: '400',
