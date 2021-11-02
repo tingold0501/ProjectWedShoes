@@ -1175,3 +1175,116 @@ footer ul li {
         height: unset;
     }
 }
+/* ==============CART================= */
+.cart{
+    padding: 100px, 0;
+}
+.cart-top-wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cart-top{
+    height: 2px;
+    width: 70%;
+    background-color: #dddddd;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px 0 50px;
+}
+.cart-top-item{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid #dddddd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #dddddd;
+}
+.cart-top-item i{
+    color:teal;
+}
+.cart-top-cart{
+    border: 1px solid #c0392b;
+}
+.cart-top-cart i{
+    color: #c0392b;
+}
+.container-cart .content-cart{
+    display: flex;
+    padding: auto;
+}
+.content-cart-left{
+    padding: 50px 20px 50px;
+
+}
+.content-cart-left img{
+    width: 70%;
+    height: 200px;
+}
+.content-cart-right{
+    padding: 50px 0 50px;
+}
+.content-cart-right table{
+    padding-left: 50px;
+}
+.content-cart-left table tr th{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    margin: 10px;
+}
+.content-cart-left table tr td{ 
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+}
+
+.content-right-cart{    
+    padding: 50px 0 50px;
+}
+.content-right-cart table tr{
+    text-align: center;
+}
+.content-right-text{
+    text-align: left;
+}
+.content-cart-right{
+    font-family: 'Times New Roman', Times, serif;
+}
+.content-cart-right table tr td{
+    padding-left: 20px;
+}
+.content-cart-left input{
+    width: 20%;
+}
+.content-right-cart{
+    padding-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.content-right-text{
+    padding: 20px 20px 20px;
+    text-align: center;
+}
+.content-right-button{
+    padding: 20px 20px 20px;
+    text-align: center;
+}
+.content-right-button button{
+    margin: 10px;
+    border: 1px solid #7b7979;
+    border-radius: 10px;
+    background:gray;
+}
+.content-right-button button:hover{
+    background: #c0392b;
+}
+.content-right-login{
+    padding: 20px 20px 20px;
+    text-align: center;
+}
+.content-cart-left button:hover{
+    background: #c0392b;
+}
